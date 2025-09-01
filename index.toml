@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "icon.png"
+hash = "03ba1db03c0b88884e3ff7fe1ab545e7e1188f7ca61b725be1cfe94c92c9d7b0"
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "ab608dc348e5a47bc1005c04925140942feeb2519f5ed6a9b01be74da790835b"
 metafile = true
@@ -199,6 +203,10 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "ea0eb6ab539b43926503901694913866aa81a9a644cd3469080214a7ca785db2"
 metafile = true
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
 file = "pw.exe"
