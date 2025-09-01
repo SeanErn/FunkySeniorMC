@@ -1,0 +1,13 @@
+name = "Enchantment Descriptions Java"
+filename = "enchantment-descriptions-java-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lYv7bxK3/versions/mB1iF3Rd/enchantment-descriptions-java-1.2.0.jar"
+hash-format = "sha512"
+hash = "47ce4680a0bff5476e09b1a12e2b104e80239077075d6e7328c531d2ed8d679fd216acd1adefe4799dcb81e5fafff31be3d3923912f2701e0c45a7f1ab98440f"
+
+[update]
+[update.modrinth]
+mod-id = "lYv7bxK3"
+version = "mB1iF3Rd"
