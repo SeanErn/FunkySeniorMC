@@ -5,6 +5,11 @@ file = "icon.png"
 hash = "03ba1db03c0b88884e3ff7fe1ab545e7e1188f7ca61b725be1cfe94c92c9d7b0"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "832691489ab19e2f0a4b81b77c143a8dceb5f3f395cdee96bcddd893fb01b363"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "ab608dc348e5a47bc1005c04925140942feeb2519f5ed6a9b01be74da790835b"
 metafile = true
@@ -135,6 +140,11 @@ hash = "e10c94949bb58b8cfa9993a9f60c9283d5858d4d55fc450dbff2953644f45047"
 metafile = true
 
 [[files]]
+file = "mods/malilib.pw.toml"
+hash = "e6e5b83fe6fdc154dcf0e5cf62309ecae0b6a44e1d5a1388d2d5a2dd7a6c4790"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "6eea5e1db3dbca126b82f211bf0d2fcf2cf13097023fdef3dd668e48581a73d0"
 metafile = true
@@ -162,6 +172,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "d47c73ae52d88b862864a9d8387c93cbeffe2513abff18c3c3c3c450eb4cbdd2"
+metafile = true
+
+[[files]]
+file = "mods/ranolds-boss-music.pw.toml"
+hash = "39e6c40a84a6e121c7aebf4dec848b1d300b57e37399c5c8b251d4439e56364a"
 metafile = true
 
 [[files]]
@@ -195,8 +210,33 @@ hash = "d572ff6e626cbfa217511f976b258c5716571876779eff3f24a65bd397e49f6b"
 metafile = true
 
 [[files]]
+file = "mods/terralith.pw.toml"
+hash = "4875fd101e678cdc5d71e6bda6bfb7d60b0d0b7683f6d9f704ebfcfac9ccb0a5"
+metafile = true
+
+[[files]]
+file = "mods/tool-trims-mod.pw.toml"
+hash = "b75bb2ed0c9a8021a174ee514860216e47546fb2288bde240806312b9bdc43f9"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "ded35e7226b1ea89121fe5f9b397fcf6bfe8f239f63ec7fcd092fd527b68fecd"
+metafile = true
+
+[[files]]
 file = "mods/unilib.pw.toml"
 hash = "9d01184b05012d5b4c04d44ec3e7251aeb3b98fd0d7bb9e9ea28cd6024fbdc1f"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "72ddbc276a2fd7aca5443c0501a59ec96d0d6090917a99a30dc71abd0dd3785d"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "f3b0dc8728401319a897b51835b2b65898dc3b769aa1f1ed0a1f513bd91c409a"
 metafile = true
 
 [[files]]
