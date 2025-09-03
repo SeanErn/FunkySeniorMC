@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/t5wuYk45/versions/DAGO9CAA/tweakeroo-fabric-1.21.8-0.25.3.jar"
-hash-format = "sha512"
-hash = "c8d2e3e1c9f6b78edaa31d2fbda0b3ad642fc73321f4ac7b87f1fc7948beb102608ba3fd8c7d1c450f20892dc749f0fcd6c0048bd0c59e5900178513f479bab9"
+hash-format = "sha256"
+hash = "54f333eaf5e90b4522c3be23e6e3c9ff4783e93b851bb9255d292b3ffd27e3f9"
 
 [update]
 [update.modrinth]

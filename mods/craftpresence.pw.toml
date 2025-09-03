@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/DFqQfIBR/versions/yQ3y9CzM/CraftPresence-2.6.2%2B1.21.8-fabric.jar"
-hash-format = "sha512"
-hash = "558cd38dcc85a4e646e43f4d30500cd2926eb762f1e79b5d10385ecff3f863c805050d4aab9a3f5bcbefb179c2778348f056ea6a67678665d1d864b2bd24c93c"
+hash-format = "sha256"
+hash = "78f98773aadd0ba2ceea8bc1c432ae2af1315535c477c4a535c170beb1f0fdff"
 
 [update]
 [update.modrinth]

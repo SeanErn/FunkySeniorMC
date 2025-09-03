@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/q5Y73acB/versions/egoyYJgj/BossMusic-2.0.1.jar"
-hash-format = "sha512"
-hash = "c9a9cec8aea90d3ed2f246f97e9edb72fc3cd5f850fbd1763852dde973d9e5f853e6be98f0bddf1c3e1c9cade8b57e5962155a872380b4cd968abcd7043c0f19"
+hash-format = "sha256"
+hash = "8c6498cbddcee82c70618da02ac985ce143996500e9819bf54bc3a8c89b299d2"
 
 [update]
 [update.modrinth]

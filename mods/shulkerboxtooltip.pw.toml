@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/2M01OLQq/versions/os3K6gc6/shulkerboxtooltip-fabric-5.2.8%2B1.21.7.jar"
-hash-format = "sha512"
-hash = "ab99874d017e71bce2019cf5e8f5e0b8584ee0a00f4beb8212b368686bab6b4cf5cc242e2a8c4905c75c3a421b8035234b7e9abcc325dc702af518229b819646"
+hash-format = "sha256"
+hash = "c774842b93cce8bbc9a335697e064ba6ce8c304b041b8d3e5942c8e28c5ea867"
 
 [update]
 [update.modrinth]
