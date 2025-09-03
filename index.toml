@@ -5,6 +5,11 @@ file = "icon.png"
 hash = "03ba1db03c0b88884e3ff7fe1ab545e7e1188f7ca61b725be1cfe94c92c9d7b0"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "832691489ab19e2f0a4b81b77c143a8dceb5f3f395cdee96bcddd893fb01b363"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "ab608dc348e5a47bc1005c04925140942feeb2519f5ed6a9b01be74da790835b"
 metafile = true
@@ -26,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "01c5eb93a204f6b917b21aefd8e1c1268c8c0e63a9b6b34c4173bd7c8ff3dca5"
+hash = "6dee7917c9156b4281bec000688abfa299a11e118fba9817966832e02f148d68"
 metafile = true
 
 [[files]]
