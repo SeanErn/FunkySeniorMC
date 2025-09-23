@@ -31,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "8981c1e15d2b51a869f09c9a12c202bceda8af4f5e2c8f4791ea856e5fb1e3ba"
+hash = "d641bc91f25efcee6ae0c8f6718974f61fd85da63d4dea5efcbbc6f7a764e926"
 metafile = true
 
 [[files]]
@@ -70,11 +70,6 @@ hash = "92c05481ca71de69e224324fcff8569904eb5be52f89496b28d9d7ed1fe09809"
 metafile = true
 
 [[files]]
-file = "mods/customizable-elytra.pw.toml"
-hash = "c17a06a7cbe0641e2af61516ca257636d4d398b27fe5b818826a8f6de7d157d7"
-metafile = true
-
-[[files]]
 file = "mods/debugify.pw.toml"
 hash = "92a6548a71aafac283544df4eb0af625cb6b2a90fd79d027ed092ea420e1d011"
 metafile = true
@@ -90,11 +85,6 @@ hash = "c8d9dbab18832bf0e3a551a178c0ddba3321e08db37179852f3c86a4b6245106"
 metafile = true
 
 [[files]]
-file = "mods/easy-anvils.pw.toml"
-hash = "8f2b6e2f43c6429702c4316192726e7df7133759325d71a7ca37088ff4e5a735"
-metafile = true
-
-[[files]]
 file = "mods/elytra-trims.pw.toml"
 hash = "fcb15650ea325ede16e8f0c9aef3a23e7da4fa531162643784ea7b8465953309"
 metafile = true
@@ -102,11 +92,6 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions-java.pw.toml"
 hash = "028e0029fbf41e512b45957ee05113cb5321767578ddda3da8b33d789e88f52e"
-metafile = true
-
-[[files]]
-file = "mods/explorers-compass.pw.toml"
-hash = "06ec97f016fd9cd700c1eae3e51754656a5531c1288091ad0d86e8c8edf8dae7"
 metafile = true
 
 [[files]]
@@ -225,6 +210,11 @@ hash = "4c9f0ea4ea09a2c622ec19d32975fb05aea8b3a3516eaa61f7e837e1245273dc"
 metafile = true
 
 [[files]]
+file = "mods/viaversion.pw.toml"
+hash = "77acf1efb62d0418cf39d14d38e4c93fc4009b5857c4b9b048f11ee31c10fae5"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "c541db76d0e9c756f7ad9a60fc22312ee68fcf8ae7183ed12ac53836bf172d75"
 metafile = true
@@ -246,3 +236,23 @@ hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 [[files]]
 file = "pw.exe"
 hash = "37d41b350daacbed709895408237cd7fe909fb81017a0e9c83afee23195f1fd8"
+
+[[files]]
+file = "texturepack/Funky_SMP_The_Vault/assets/minecraft/texts/splashes.txt"
+hash = "7ee3fc117fb82786166a2561f0fea99f6b01d4e0cf9538fb5c40b84ad6e60396"
+
+[[files]]
+file = "texturepack/Funky_SMP_The_Vault/assets/minecraft/textures/gui/title/edition.png"
+hash = "fcd82abe56090d02263d71769b5605c7689df1ddbf64fd4d991e620e77d743b2"
+
+[[files]]
+file = "texturepack/Funky_SMP_The_Vault/assets/minecraft/textures/gui/title/minecraft.png"
+hash = "6314bd288ef7f63b88f68207cab3d08c87ca3a0531f8f988b7876e8b1ba307e0"
+
+[[files]]
+file = "texturepack/Funky_SMP_The_Vault/pack.mcmeta"
+hash = "604afef11258272282fa9eed6f26d148fbf82ed2c3b434f470cfa5ef03886086"
+
+[[files]]
+file = "texturepack/Funky_SMP_The_Vault/pack.png"
+hash = "03ba1db03c0b88884e3ff7fe1ab545e7e1188f7ca61b725be1cfe94c92c9d7b0"
