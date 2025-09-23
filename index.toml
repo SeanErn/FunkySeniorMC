@@ -210,8 +210,8 @@ hash = "4c9f0ea4ea09a2c622ec19d32975fb05aea8b3a3516eaa61f7e837e1245273dc"
 metafile = true
 
 [[files]]
-file = "mods/viafabricplus.pw.toml"
-hash = "0b81295141b0220b224e9f6af9cbfd25764bf2e3dfb122eacd49f9f9c29c92a9"
+file = "mods/viafabric.pw.toml"
+hash = "309c5fa53b33422aedf5a06250745d6757eb12edc0a5ee1323525ead0a840dcb"
 metafile = true
 
 [[files]]
