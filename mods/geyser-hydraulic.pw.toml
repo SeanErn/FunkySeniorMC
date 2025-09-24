@@ -1,8 +1,0 @@
-name = "geyser-hydraulic"
-filename = "fabric"
-side = "both"
-
-[download]
-url = "https://download.geysermc.org/v2/projects/hydraulic/versions/latest/builds/latest/downloads/fabric"
-hash-format = "sha256"
-hash = "273e07eba293f38d754cebb7538edb720638617ac197dcffdca7cb5ba8b50ff5"
