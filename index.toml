@@ -25,11 +25,6 @@ hash = "a16c6fde41df2e426b2f1bd4688244b7f83cdb32d0cd72c9a660807863594323"
 metafile = true
 
 [[files]]
-file = "mods/borderless-fullscreen.pw.toml"
-hash = "10f295eadf3828eb12d0999536925e98366e67808fbaea19d3eb6f8087ac0151"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "6dee7917c9156b4281bec000688abfa299a11e118fba9817966832e02f148d68"
 metafile = true
@@ -67,6 +62,11 @@ metafile = true
 [[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "92c05481ca71de69e224324fcff8569904eb5be52f89496b28d9d7ed1fe09809"
+metafile = true
+
+[[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "a90139b002d632ba9256cb3e7e877945bf8e3afa5b191d1adc83c5e3eb72da4c"
 metafile = true
 
 [[files]]
