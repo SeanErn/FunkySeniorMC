@@ -135,6 +135,11 @@ hash = "81b5a6d73e3b9f486ee5dd5873e91381c52a4698e5432a01270607abf076f644"
 metafile = true
 
 [[files]]
+file = "mods/minecraftgobyebye.pw.toml"
+hash = "42f0774bdabe3f597edbf5b5eb0a3574585361ae62a04c5767680d072ff57249"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "cafa99a684795d5e436d2c2c2282e06a0824473678aa402111a1876b975b1840"
 metafile = true
@@ -152,6 +157,11 @@ metafile = true
 [[files]]
 file = "mods/music-notification.pw.toml"
 hash = "8116176c0d2bddee63622bdc1cde4e0f3354ef825d412a355208227c33af0e03"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "ba94fd9dd7d5148b511c24460a281143c3a5d02b859e66732f6121aee6625f0d"
 metafile = true
 
 [[files]]

@@ -1,0 +1,15 @@
+name = "MinecraftGoByeBye"
+filename = "mcgbb-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/SeanErn/MinecraftGoByeBye/releases/download/v1.0.0/mcgbb-1.0.0.jar"
+hash-format = "sha256"
+hash = "11af600a8c069c3dd3c0287215e685efc2eb8b0d43da99fe24ea3ee14031eb6d"
+
+[update]
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "SeanErn/MinecraftGoByeBye"
+tag = "v1.0.0"
