@@ -5,6 +5,11 @@ file = "icon.png"
 hash = "03ba1db03c0b88884e3ff7fe1ab545e7e1188f7ca61b725be1cfe94c92c9d7b0"
 
 [[files]]
+file = "mods/anti-xray.pw.toml"
+hash = "54094fe0d14e59b037f1efda0200ab9723b86eb51fb644d726f28b97261a72f8"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "bf03bdade34ab5eef81aae0afa30036f9906fbe3d97efce1fb3bca4840e1d4de"
 metafile = true
@@ -120,8 +125,23 @@ hash = "594d5f3c05990e37cbde3aa2d45ca0271a1ed0e2465692755631fbbe3c183836"
 metafile = true
 
 [[files]]
+file = "mods/grimac.pw.toml"
+hash = "33aefea37c70ec85ea3ccbaaac87445fb191980088322f160966ea97afd4dfe9"
+metafile = true
+
+[[files]]
+file = "mods/invview.pw.toml"
+hash = "d2d78a04058d834727228934ac4ad1f11cecc589eb45dd176633754d91c8cd65"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "a64f176435eada3c5396ac3442e6d6f52145f48d218e7885755e072add8c466d"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
+hash = "6c0dee8f94e0db83629373990cbc013cb3ce5e563a2d06bede26643e820f060b"
 metafile = true
 
 [[files]]

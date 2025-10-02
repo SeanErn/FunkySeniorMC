@@ -1,0 +1,13 @@
+name = "Grim Anticheat"
+filename = "grimac-fabric-2.3.72-3ac26d0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LJNGWSvH/versions/j9MDkWD4/grimac-fabric-2.3.72-3ac26d0.jar"
+hash-format = "sha512"
+hash = "49b958e15519ba0133fab8e28bf25593d01f5501dcad2f128326225b06ab9afd2ae0196ec6bad21dad2b5c14b6c484393524d01874bf486f46de2f4135478476"
+
+[update]
+[update.modrinth]
+mod-id = "LJNGWSvH"
+version = "j9MDkWD4"
